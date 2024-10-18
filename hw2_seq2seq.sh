@@ -1,0 +1,1 @@
+python3 tr1.py test_data result2.txt
