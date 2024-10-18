@@ -1,0 +1,2 @@
+Model Name, time
+ model_batchsize_32_hidsize_128_DP_0.4_worddim_2048, 4177.541865110397
